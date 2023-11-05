@@ -1,0 +1,54 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background: #333;
+  color: #fff;
+}
+.navbar {
+  border-bottom: 3px solid #008ed6;
+  background: #292b2c;
+  opacity: 0.9;
+}
+
+#home {
+  background: url(../image/d-high-decoration-background-wallpaper-n-design-floral-photo-mural-wall-163061320.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  min-height: 700px;
+}
+
+.home-inner {
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+.fa {
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.lead {
+  font-size: 22px;
+}
+
+#explore-body {
+  background: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+  max-width: 100%;
+  height: 400px;
+}
+/* .dark-overlay {
+  background-color: #333;
+  opacity: 0.1;
+} */
